@@ -1,0 +1,77 @@
+<eprints>
+<eprint><eprintid>10.1109/VAST.2016.7883508</eprintid><date>2016</date><publication>VAST</publication><concepts><item>
+					<label>Crowdsourcing</label>
+					<dbpediaURI>http://dbpedia.org/resource/Crowdsourcing</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q275969</wikidataURI>
+				</item>
+				<item>
+					<label>Virtual colonoscopy</label>
+					<dbpediaURI>http://dbpedia.org/resource/Virtual_colonoscopy</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q302481</wikidataURI>
+				</item>
+				<item>
+					<label>Colonoscopy</label>
+					<dbpediaURI>http://dbpedia.org/resource/Colonoscopy</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q840387</wikidataURI>
+				</item>
+			</concepts></eprint><eprint><eprintid>10.1109/INFVIS.2004.40</eprintid><date>2004</date><publication>InfoVis</publication><concepts><item>
+					<label>Access control</label>
+					<dbpediaURI>http://dbpedia.org/resource/Access_control</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q228502</wikidataURI>
+				</item>
+				<item>
+					<label>File system</label>
+					<dbpediaURI>http://dbpedia.org/resource/File_system</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q174989</wikidataURI>
+				</item>
+			</concepts></eprint><eprint><eprintid>10.1109/TVCG.2014.2346922</eprintid><date>2014</date><publication>VAST</publication><concepts><item>
+					<label>Hurricane Sandy</label>
+					<dbpediaURI>http://dbpedia.org/resource/Hurricane_Sandy</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q264</wikidataURI>
+				</item>
+				<item>
+					<label>Machine learning</label>
+					<dbpediaURI>http://dbpedia.org/resource/Machine_learning</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q2539</wikidataURI>
+				</item>
+				<item>
+					<label>Facebook</label>
+					<dbpediaURI>http://dbpedia.org/resource/Facebook</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q355</wikidataURI>
+				</item>
+				<item>
+					<label>Twitter</label>
+					<dbpediaURI>http://dbpedia.org/resource/Twitter</dbpediaURI>
+					<wikidataURI>NotFound</wikidataURI>
+				</item>
+				<item>
+					<label>Interactive visual analysis</label>
+					<dbpediaURI>http://dbpedia.org/resource/Interactive_visual_analysis</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q17092520</wikidataURI>
+				</item>
+			</concepts></eprint><eprint><eprintid>10.1109/VISUAL.1990.146359</eprintid><date>1990</date><publication>Vis</publication><concepts><item>
+					<label>Vector field</label>
+					<dbpediaURI>http://dbpedia.org/resource/Vector_field</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q186247</wikidataURI>
+				</item>
+			</concepts></eprint><eprint><eprintid>10.1109/VISUAL.1990.146367</eprintid><date>1990</date><publication>Vis</publication><concepts><item>
+					<label>Polygon</label>
+					<dbpediaURI>http://dbpedia.org/resource/Polygon</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q37555</wikidataURI>
+				</item>
+			</concepts></eprint><eprint><eprintid>10.1109/VISUAL.1990.146360</eprintid><date>1990</date><publication>Vis</publication><concepts><item>
+					<label>Fluid mechanics</label>
+					<dbpediaURI>http://dbpedia.org/resource/Fluid_mechanics</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q172145</wikidataURI>
+				</item>
+				<item>
+					<label>Computational fluid dynamics</label>
+					<dbpediaURI>http://dbpedia.org/resource/Computational_fluid_dynamics</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q815820</wikidataURI>
+				</item>
+				<item>
+					<label>Interactive visualization</label>
+					<dbpediaURI>http://dbpedia.org/resource/Interactive_visualization</dbpediaURI>
+					<wikidataURI>http://www.wikidata.org/entity/Q16247990</wikidataURI>
+				</item>
+			</concepts></eprint></eprints>
