@@ -55,6 +55,8 @@ The sigma export interactive visualization result is here: http://photomedia.ca/
 
 # Renders Folder
 
+A folder with some exported PNG files of visualizations of the GML graph.  These images are also available in [OSF](https://osf.io/x9shn/).
+
 - [GC-nodesize-spline.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline.
 - [GC-nodesize-spline-bcGT_01.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline-bcGT_01.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with BC greater than .01
 - [GC-nodesize-spline-degreeGT10.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline-degreeGT10.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with Degree greater than 10
