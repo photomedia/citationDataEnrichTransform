@@ -46,7 +46,7 @@ Download from https://sites.google.com/site/vispubdata/home
 
     ↓
     
-- [interactive folder](https://github.com/photomedia/citationDataEnrichTransform/blob/main/interactive) contains interactive visualization exported using [Gephi sigma exporter plugin](https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin)
+- [interactive folder](https://github.com/photomedia/citationDataEnrichTransform/blob/main/OUTPUT/interactive) contains interactive visualization exported using [Gephi sigma exporter plugin](https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin)
 - [renders folder](https://github.com/photomedia/citationDataEnrichTransform/tree/main/renders) contains exports of visualizations of the graph from Gephi.  
 
 # Interactive visualization
