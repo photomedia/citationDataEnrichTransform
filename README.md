@@ -43,7 +43,15 @@ Download from https://sites.google.com/site/vispubdata/home
     ↓
     
 - [enriched-dynamic-GML.gephi](https://github.com/photomedia/citationDataEnrichTransform/blob/main/enriched-dynamic-GML.gephi) (saved gephi file)
+
+    ↓
+    
+- [interactive](https://github.com/photomedia/citationDataEnrichTransform/blob/main/interactive) contains interactive visualization exported using [Gephi sigma exporter plugin](https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin)
 - [renders folder](https://github.com/photomedia/citationDataEnrichTransform/tree/main/renders) contains exports of visualizations of the graph from Gephi.  
+
+# Interactive visualization
+
+The sigma export interactive visualization result is here: http://photomedia.ca/visualizations/InfoViz/ .  It allows for online interaction with the graph (search, community display, zoom/pan, etc.)
 
 # Renders Folder
 
