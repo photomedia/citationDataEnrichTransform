@@ -17,7 +17,7 @@ register 'convert-data-name.py' using jython as UDFToStringCleaner ;
 --======================================================================================
 --usage: specify datafile from command line
 --for example:
---pig -x local -param datafile="XML/data_humanist_photography.xml" eartexte-convert.pig
+--pig -x local -param datafile="XML/data_humanist_photography.xml" eprints-items-publications-date-merged-edges.pig
 --======================================================================================
 --%declare datafile 'XML/data_humanist_photography.xml';
 
@@ -46,6 +46,7 @@ D23 = FOREACH C2 GENERATE FLATTEN(nodewikidata);
 X2 = RANK D21;
 X22 = RANK D22;
 X23 = RANK D23;
+
 result = JOIN X2 BY $0, X22 BY $0, X23 by $0;
 D2 = FOREACH result GENERATE $1 as nodea, $2, $3 as (pubDate), $6 as (customlabel), $8 as (wikidataURI); 
 

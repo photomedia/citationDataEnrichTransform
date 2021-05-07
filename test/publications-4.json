@@ -1,4 +1,24 @@
 { 
+    "10.1109/TVCG.2008.166": {
+        "Conference": "InfoVis",
+        "Year": "2008",
+        "Title": "Stacked Graphs - Geometry & Aesthetics",
+        "DOI": "10.1109/TVCG.2008.166",
+        "Link": "http://dx.doi.org/10.1109/TVCG.2008.166",
+        "FirstPage": "1245",
+        "LastPage": "1252",
+        "PaperType": "J",
+        "Abstract": "In February 2008, the New York Times published an unusual chart of box office revenues for 7500 movies over 21 years. The chart was based on a similar visualization, developed by the first author, that displayed trends in music listening. This paper describes the design decisions and algorithms behind these graphics, and discusses the reaction on the Web. We suggest that this type of complex layered graph is effective for displaying large data sets to a mass audience. We provide a mathematical analysis of how this layered graph relates to traditional stacked graphs and to techniques such as ThemeRiver, showing how each method is optimizing a different ldquoenergy functionrdquo. Finally, we discuss techniques for coloring and ordering the layers of such graphs. Throughout the paper, we emphasize the interplay between considerations of aesthetics and legibility.",
+        "AuthorNames-Deduped": "Lee Byron;Martin Wattenberg",
+        "AuthorNames": "Lee Byron;Martin Wattenberg",
+        "AuthorAffiliation": "The New York Times;Visual Communication Lab at IBM",
+        "InternalReferences": "10.1109/TVCG.2006.163;10.1109/INFVIS.2005.1532122;10.1109/TVCG.2007.70577;10.1109/INFVIS.2000.885098",
+        "AuthorKeywords": "Streamgraph, ThemeRiver, listening history, lastfm, aesthetics, communication-minded visualization, time series",
+        "AminerCitationCount_04-2020": "240",
+        "XploreCitationCount - 2021-02": "179",
+        "PubsCited": "20",
+        "Award": "HM"
+    },
     "10.1109/VAST.2016.7883508": {
         "Conference": "VAST",
         "Year": "2016",
