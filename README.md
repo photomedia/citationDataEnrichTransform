@@ -51,7 +51,10 @@ Download from https://sites.google.com/site/vispubdata/home
 
 # Interactive visualization
 
-The sigma export interactive visualization result is here: http://photomedia.ca/visualizations/InfoViz/ .  It allows for online interaction with the graph (search, community display, zoom/pan, etc.)
+The sigma export interactive visualization results are here:
+- (English labels): http://photomedia.ca/visualizations/InfoViz/ 
+- (French labels): http://photomedia.ca/visualizations/InfoViz-fr/ 
+It allows for online interaction with the graph (search, community display, zoom/pan, etc.)
 
 # Renders Folder
 
