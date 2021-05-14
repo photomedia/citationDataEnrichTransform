@@ -58,10 +58,10 @@ The sigma export interactive visualization result is here: http://photomedia.ca/
 A folder with some exported PNG files of visualizations of the GML graph.  
 https://github.com/photomedia/citationDataEnrichTransform/tree/main/renders
 
-Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline.
-Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with BC greater than .01
-Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with Degree greater than 10
-Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter only Concepts that are related by publications from more than 1 conference
+- Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline.
+- Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with BC greater than .01
+- Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with Degree greater than 10
+- Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter only Concepts that are related by publications from more than 1 conference
 - Temporal Filters
   - Filter leaving only concept relations that span 25 years or longer
   - Filter by time 1990-2000, 2000-2010, 2010-2020
