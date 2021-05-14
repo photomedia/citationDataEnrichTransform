@@ -55,21 +55,18 @@ The sigma export interactive visualization result is here: http://photomedia.ca/
 
 # Renders Folder
 
-A folder with some exported PNG files of visualizations of the GML graph.  These images are also available in [OSF](https://osf.io/x9shn/).
+A folder with some exported PNG files of visualizations of the GML graph.  
+https://github.com/photomedia/citationDataEnrichTransform/tree/main/renders
 
-- [GC-nodesize-spline.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline.
-- [GC-nodesize-spline-bcGT_01.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline-bcGT_01.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with BC greater than .01
-- [GC-nodesize-spline-degreeGT10.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline-degreeGT10.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with Degree greater than 10
-- [GC-nodesize-spline-multi-conference.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/GC-nodesize-spline-multi-conference.png) - Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter only Concepts that are related by publications from more than 1 conference
+Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline.
+Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with BC greater than .01
+Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter Nodes with Degree greater than 10
+Giant Component, Node Size mapped to Betweenness Centrality (BC) on a spline, Filter only Concepts that are related by publications from more than 1 conference
 - Temporal Filters
-  - [NF-nodesize-spline-durationGT25-FS24.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-durationGT25-FS24.png) - Filter leaving only concept relations that span 25 years or longer
-  - [NF-nodesize-spline-1990-2000.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-1990-2000.png) - Filter by time (1990-2000)
-  - [NF-nodesize-spline-2000-2010-durationLT10-FS24.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-2000-2010-durationLT10-FS24.png) - Filter by time (1990-2000) and Duration of concept relations LESS than 10 years
-  - [NF-nodesize-spline-2000-2010.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-2000-2010.png) - Filter by time (2000-2010)
-  - [NF-nodesize-spline-2000-2010-durationLT10-FS24.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-2000-2010-durationLT10-FS24.png) - Filter by time (2000-2010) and Duration of concept relations LESS than 10 years
-  - [NF-nodesize-spline-2010-2020.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-2010-2020.png) - Filter by time (2010-2010)
-  - [NF-nodesize-spline-2010-2020-durationLT10-FS24.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-2010-2020-durationLT10-FS24.png) - Filter by time (2010-2020) and Duration of concept relations LESS than 10 years
-  - [NF-nodesize-spline-2015-2020-durationLT5-FS24.png](https://github.com/photomedia/citationDataEnrichTransform/blob/main/renders/NF-nodesize-spline-2015-2020-durationLT5-FS24.png) - Filter by time (2015-2020) and Duration of concept relations LESS than 5 years
+  - Filter leaving only concept relations that span 25 years or longer
+  - Filter by time 1990-2000, 2000-2010, 2010-2020
+  - Filter by time 1990-2000, 2000-2010, 2010-2020 and Duration of concept relations LESS than 10 years
+  - Filter by time (2015-2020) and Duration of concept relations LESS than 5 years
   
 
 
