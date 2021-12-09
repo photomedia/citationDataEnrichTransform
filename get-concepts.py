@@ -13,6 +13,7 @@ from wikidata.multilingual import Locale
 NotFoundArray = []
 MultipleWikiDataLinksFoundArray = []
 NotFoundWikiDataLink = []
+DBPediaJSONError = []
 
 
 def requests_retry_session(
@@ -88,9 +89,16 @@ def getConcepts(text, language):
 
           #Dereference dbpedia URI and get the wikidata uri on the under the owl#sameas predicate
           dbpediaJsonURI = 'http://dbpedia.org/data/' + candidate.get('resource').get('@uri') + '.json'
+          print ("dbPedia for uri "+dbpediaJsonURI)
           response2 = requests_retry_session().get(dbpediaJsonURI,headers=headers)
           foundWikiData=0
-          dbpediaObj = response2.json()
+          dbpediaObj = None
+          try:
+            dbpediaObj = response2.json()
+          except:
+            print ("WARNING: Encountered error in decoding JSON from dbpedia, skipping this concept")
+            DBPediaJSONError.append(dbpediaJsonURI)
+            continue
           if (not dbpediaObj.get(dbpediaURI) is None):
             dbpediaPredicates = dbpediaObj.get(dbpediaURI).get('http://www.w3.org/2002/07/owl#sameAs')
 
@@ -222,6 +230,10 @@ with open(path,'r',encoding='utf-8') as jsonfile:
       #print (concepts)
       record['concepts'] = concepts
       result.append(record)
+
+  print ("Following concepts/URIs were skipped due to ERROR when retrieving JSON from Dbpedia")
+  unique_labels = list(set(DBPediaJSONError))
+  print(unique_labels)
 
   print ("Following Labels were Not Found in Target Language")
   unique_labels = list(set(NotFoundArray))
