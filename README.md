@@ -24,7 +24,7 @@ Download from https://sites.google.com/site/vispubdata/home
 
     ↓
     
-[publications.json](https://github.com/photomedia/citationDataEnrichTransform/blob/main/publications.json) --> Enrich with DBpedia and WikiData links using [get-concepts.py](https://github.com/photomedia/citationDataEnrichTransform/blob/main/get-concepts.py), a modified/updated version of the script at [wikidataEnricher](https://github.com/fberrizbeitia/wikidataEnricher)
+[publications.json](https://github.com/photomedia/citationDataEnrichTransform/blob/main/publications.json) --> Enrich with DBpedia and WikiData links using [get-concepts.py](https://github.com/photomedia/citationDataEnrichTransform/blob/main/get-concepts.py).
 
     ↓
     
